@@ -3,3 +3,5 @@ if v>0:
   print("v is positive")
 elif v<0:
   print("v is negative")
+else :
+  print("v is zero")
